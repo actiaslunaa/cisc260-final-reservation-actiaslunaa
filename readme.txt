@@ -8,7 +8,7 @@ Purpose of System: Reliable and consistent way to schedule tax preperation appoi
 First meeting: Friday, October 30th
 VITA Appointment Reservation System Project: Material reading on D2L
 
-3. Fucntional Requirements
+3. Functional Requirements
 FR-01 - The system shall allow clients to complete screening questions and determine if they qualify for an appointment.
 FR-02 - The system shall allow clients who passed screening to select available appointments.
 FR-03 - The system shall display appointments with date, time, and location.
